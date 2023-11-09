@@ -84,7 +84,7 @@ Hinweis: Du kannst auf deinen GitHub-Account verlinken, in dem du passende Markd
  - [Nilorac](https://github.com/nilorac) Liebe Grüße und Danke für die Einführung
  - [Schwenksen](https://github.com/Schwenksen) Schöne Grüße von der Ostsee und vielen Dank für das Tutorial!
  - [ideenstrasse](https://github.com/ideenstrasse) Gruß aus NRW
- - [sgaechter](https://github.com/sgaechter) Grüsse aus der Schweiz. Dies ist ein Gelungener Kurs. Danke fürs bereitstellen.
+ - [sgaechter](https://github.com/sgaechter) Grüsse aus der Schweiz. Dies ist ein Gelungener Kurs. Danke fürs bereithttps://github.com/RaySoundstellen.
  - [miasyIOS](https://github.com/miasyIOS) Moin aus der Nähe von Hamburg und besten Dank für dass hilfreiche Tutorial.
  - [Lenzelott](https://github.com/Lenzelott) Danke für die kurze Einführung.
  - [andko76](https://github.com/andko76) Danke für die das gute Schulungsvideo über Github
@@ -98,3 +98,4 @@ Hinweis: Du kannst auf deinen GitHub-Account verlinken, in dem du passende Markd
  - [escuco](https://github.com/escuco) -> Danke für das Tutorial, welches gut in diesen Sonntag Vormittag past :)
  - [Octagon123](https://github.com/Octagon123) -> Hi und schöne Grüße!
  - [velotist](https://github.com/velotist] -> Weiterhin viel Erfolg allen.
+ - [RaySound](https://github.com/RaySound) Grüße aus Mittelfranken
